@@ -1,0 +1,14 @@
+
+UserDefinedType isa Package
+{
+	Pinplatte2D isa MechanicalFeature
+	{
+		`GL` = 0 , Type : `LENGTH` NLSName : `GL` ;
+		`L1` = 0 , Type : `LENGTH` NLSName : `L1` ;
+		`B` = 0 , Type : `LENGTH` NLSName : `B` ;
+		`L` = 0 , Type : `LENGTH` NLSName : `L` ;
+		`R` = 0 , Type : `LENGTH` NLSName : `R` ;
+		`Ref` = 0 , Type : `Feature` NLSName : `Ref` ;
+		`xy` = 0 , Type : `Feature` NLSName : `xy` ;
+	}
+}

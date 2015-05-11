@@ -1,0 +1,12 @@
+
+UserDefinedType isa Package
+{
+	PinplatteASketchQuer isa SkinFeature
+	{
+		`Kugelfraeser-Rasternullpunkt` = 0 , Type : Feature NLSName : `Kugelfraeser-Rasternullpunkt` ;
+		Top = 0 , Type : Feature ;
+		`#Ref` = 0 , Type : Feature NLSName : `#Ref` ;
+		xy = 0 , Type : Feature ;
+		AXS = 0 , Type : Feature ;
+	}
+}

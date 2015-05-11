@@ -1,0 +1,9 @@
+
+UserDefinedType isa Package
+{
+	FormateM isa MechanicalFeature
+	{
+		`B` = 0 , Type : `LENGTH` NLSName : `B` ;
+		`#Position` = 0 , Type : `Feature` NLSName : `#Position` ;
+	}
+}

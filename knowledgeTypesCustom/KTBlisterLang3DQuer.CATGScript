@@ -1,0 +1,18 @@
+
+UserDefinedType isa Package
+{
+	KTBlisterLang3DQuer isa MechanicalFeature
+	{
+		center = 0 , Type : Feature ;
+		Offset_x = 0 , Type : LENGTH ;
+		Offset_y = 0 , Type : LENGTH ;
+		A = 0 , Type : ANGLE ;
+		B = 0 , Type : LENGTH ;
+		R = 0 , Type : LENGTH ;
+		L = 0 , Type : LENGTH ;
+		T = 0 , Type : LENGTH ;
+		D = 0 , Type : ANGLE ;
+		Ref = 0 , Type : Feature ;
+		Breite_xy = 0 , Type : Feature ;
+	}
+}

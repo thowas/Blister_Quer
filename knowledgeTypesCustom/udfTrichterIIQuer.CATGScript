@@ -1,0 +1,14 @@
+
+UserDefinedType isa Package
+{
+	udfTrichterIIQuer isa MechanicalFeature
+	{
+		H = 0 , Type : LENGTH ;
+		R = 0 , Type : LENGTH ;
+		LII = 0 , Type : LENGTH ;
+		LI = 0 , Type : LENGTH ;
+		Top = 0 , Type : Feature ;
+		Ref = 0 , Type : Feature ;
+		xy = 0 , Type : Feature ;
+	}
+}

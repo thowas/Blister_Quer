@@ -1,0 +1,14 @@
+
+UserDefinedType isa Package
+{
+	KanalCurveNeu isa SkinFeature
+	{
+		`KL` = 0 , Type : `LENGTH` NLSName : `KL` ;
+		`PL` = 0 , Type : `LENGTH` NLSName : `PL` ;
+		`A1` = 0 , Type : `ANGLE` NLSName : `A1` ;
+		`R` = 0 , Type : `LENGTH` NLSName : `R` ;
+		`#Start` = 0 , Type : `Feature` NLSName : `#Start` ;
+		`#End` = 0 , Type : `Feature` NLSName : `#End` ;
+		`zx` = 0 , Type : `Feature` NLSName : `zx` ;
+	}
+}

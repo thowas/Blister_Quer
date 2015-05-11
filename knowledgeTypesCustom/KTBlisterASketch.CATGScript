@@ -1,0 +1,11 @@
+
+UserDefinedType isa Package
+{
+	KTBlisterASketch isa SkinFeature
+	{
+		`B` = 0 , Type : `LENGTH` NLSName : `B` ;
+		`L` = 0 , Type : `LENGTH` NLSName : `L` ;
+		`Ref` = 0 , Type : `Feature` NLSName : `Ref` ;
+		`Breite_xy` = 0 , Type : `Feature` NLSName : `Breite_xy` ;
+	}
+}

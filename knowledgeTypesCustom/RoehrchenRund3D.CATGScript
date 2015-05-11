@@ -1,0 +1,13 @@
+
+UserDefinedType isa Package
+{
+	RoehrchenRund3D isa MechanicalFeature
+	{
+		`RFA` = 0 , Type : `Boolean` NLSName : `RFA` ;
+		`RA` = 0 , Type : `Boolean` NLSName : `RA` ;
+		`Radius2` = 0 , Type : `LENGTH` NLSName : `Radius2` ;
+		`A` = 0 , Type : `ANGLE` NLSName : `A` ;
+		`#Ref` = 0 , Type : `Feature` NLSName : `#Ref` ;
+		`xy` = 0 , Type : `Feature` NLSName : `xy` ;
+	}
+}

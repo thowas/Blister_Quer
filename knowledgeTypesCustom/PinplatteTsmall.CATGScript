@@ -1,0 +1,18 @@
+
+UserDefinedType isa Package
+{
+	PinplatteTsmall isa MechanicalFeature
+	{
+		`AXS` = 0 , Type : `Feature` NLSName : `AXS` ;
+		`Kugelfraeser-Rasternullpunkt` = 0 , Type : `Feature` NLSName : `Kugelfraeser-Rasternullpunkt` ;
+		`GL` = 0 , Type : `LENGTH` NLSName : `GL` ;
+		`AF` = 0 , Type : `LENGTH` NLSName : `AF` ;
+		`L1` = 0 , Type : `LENGTH` NLSName : `L1` ;
+		`B` = 0 , Type : `LENGTH` NLSName : `B` ;
+		`T` = 0 , Type : `LENGTH` NLSName : `T` ;
+		`R` = 0 , Type : `LENGTH` NLSName : `R` ;
+		`#Ref` = 0 , Type : `Feature` NLSName : `#Ref` ;
+		`xy` = 0 , Type : `Feature` NLSName : `xy` ;
+		`Top` = 0 , Type : `Feature` NLSName : `Top` ;
+	}
+}

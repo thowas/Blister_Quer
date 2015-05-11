@@ -1,0 +1,12 @@
+
+UserDefinedType isa Package
+{
+	RoerchenDeckel isa MechanicalFeature
+	{
+		`R` = 0 , Type : `LENGTH` NLSName : `R` ;
+		`B` = 0 , Type : `LENGTH` NLSName : `B` ;
+		`T` = 0 , Type : `LENGTH` NLSName : `T` ;
+		`xy` = 0 , Type : `Feature` NLSName : `xy` ;
+		`Ref` = 0 , Type : `Feature` NLSName : `Ref` ;
+	}
+}

@@ -1,0 +1,9 @@
+
+UserDefinedType isa Package
+{
+	RahmenTM isa MechanicalFeature
+	{
+		`T` = 0 , Type : `LENGTH` NLSName : `T` ;
+		`#Position` = 0 , Type : `Feature` NLSName : `#Position` ;
+	}
+}

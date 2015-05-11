@@ -1,0 +1,12 @@
+
+UserDefinedType isa Package
+{
+	RoehrchenFlach2D isa MechanicalFeature
+	{
+		B = 0 , Type : LENGTH ;
+		Radius_2 = 0 , Type : LENGTH ;
+		A = 0 , Type : ANGLE ;
+		`#Ref` = 0 , Type : Feature NLSName : `#Ref` ;
+		xy = 0 , Type : Feature ;
+	}
+}

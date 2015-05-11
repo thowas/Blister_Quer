@@ -1,0 +1,17 @@
+
+UserDefinedType isa Package
+{
+	TrichterRundQuer isa MechanicalFeature
+	{
+		Extract.6 = 0 , Type : Feature ;
+		Messpunkt = 0 , Type : Feature ;
+		ref = 0 , Type : LENGTH ;
+		D = 0 , Type : LENGTH ;
+		R1 = 0 , Type : LENGTH ;
+		A1 = 0 , Type : ANGLE ;
+		xy = 0 , Type : Feature ;
+		`#Ref` = 0 , Type : Feature NLSName : `#Ref` ;
+		Top = 0 , Type : Feature ;
+		Down = 0 , Type : Feature ;
+	}
+}

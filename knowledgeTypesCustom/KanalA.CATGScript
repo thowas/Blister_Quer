@@ -1,0 +1,21 @@
+
+UserDefinedType isa Package
+{
+	KanalA isa SkinFeature
+	{
+		`Kanal` = 0 , Type : `Feature` NLSName : `Kanal` ;
+		`#Profil_2` = 0 , Type : `Feature` NLSName : `#Profil_2` ;
+		`PII_B` = 0 , Type : `LENGTH` ;
+		`PII_T` = 0 , Type : `LENGTH` ;
+		`S1` = 0 , Type : `LENGTH` NLSName : `S1` ;
+		`S2` = 0 , Type : `LENGTH` NLSName : `S2` ;
+		`A` = 0 , Type : `ANGLE` NLSName : `A` ;
+		`KL` = 0 , Type : `LENGTH` NLSName : `KL` ;
+		`P_Laenge` = 0 , Type : `LENGTH` NLSName : `P_Laenge` ;
+		`xy` = 0 , Type : `Feature` NLSName : `xy` ;
+		`#Start` = 0 , Type : `Feature` NLSName : `#Start` ;
+		`#End` = 0 , Type : `Feature` NLSName : `#End` ;
+		`zx` = 0 , Type : `Feature` NLSName : `zx` ;
+		`#Profil_1` = 0 , Type : `Feature` NLSName : `#Profil_1` ;
+	}
+}

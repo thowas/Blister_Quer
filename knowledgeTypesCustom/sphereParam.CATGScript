@@ -1,0 +1,10 @@
+
+UserDefinedType isa Package
+{
+	sphereParam isa SkinFeature
+	{
+		Sphere.1\Radius = 0 , Type : LENGTH ;
+		Punkt = 0 , Type : Feature ;
+		Parameters = 0 , Type : Feature ;
+	}
+}

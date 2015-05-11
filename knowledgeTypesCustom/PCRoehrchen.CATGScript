@@ -1,0 +1,11 @@
+PowerCopy isa Package
+{
+	PCRoehrchen isa SkinFeature
+	{
+		`R` = 0 , Type : `LENGTH` NLSName : `R` ;
+		`T` = 0 , Type : `LENGTH` NLSName : `T` ;
+		`B` = 0 , Type : `LENGTH` NLSName : `B` ;
+		`Ref` = 0 , Type : `Feature` NLSName : `Ref` ;
+		`xy` = 0 , Type : `Feature` NLSName : `xy` ;
+	}
+}

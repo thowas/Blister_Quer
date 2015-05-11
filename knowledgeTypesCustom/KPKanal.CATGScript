@@ -1,0 +1,15 @@
+
+UserDefinedType isa Package
+{
+	KPKanal isa PartFeature
+	{
+		`Ziel` = 0 , Type : `Feature` NLSName : `Ziel` ;
+		`zx` = 0 , Type : `Feature` NLSName : `zx` ;
+		`c2` = 0 , Type : `Feature` NLSName : `c2` ;
+		`c1` = 0 , Type : `Feature` NLSName : `c1` ;
+		
+		`c1_1` = 0 , Type : `Feature` NLSName : `c1_1` ;
+		
+			
+	}
+}

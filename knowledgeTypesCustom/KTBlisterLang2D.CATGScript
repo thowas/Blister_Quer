@@ -1,0 +1,14 @@
+
+UserDefinedType isa Package
+{
+	KTBlisterLang2D isa MechanicalFeature
+	{
+		`Output.2 (Point.2)` = 0 , Type : `Feature` NLSName : `Output.2 (Point.2)` ;
+		`Output.1 (Point.1)` = 0 , Type : `Feature` NLSName : `Output.1 (Point.1)` ;
+		`A` = 0 , Type : `ANGLE` NLSName : `A` ;
+		`B` = 0 , Type : `LENGTH` NLSName : `B` ;
+		`L` = 0 , Type : `LENGTH` NLSName : `L` ;
+		`Ref` = 0 , Type : `Feature` NLSName : `Ref` ;
+		`Breite_xy` = 0 , Type : `Feature` NLSName : `Breite_xy` ;
+	}
+}

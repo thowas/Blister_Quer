@@ -1,0 +1,14 @@
+
+UserDefinedType isa Package
+{
+	KanalCurve1xQuer isa SkinFeature
+	{
+		PL = 0 , Type : LENGTH ;
+		R1 = 0 , Type : LENGTH ;
+		KL = 0 , Type : LENGTH ;
+		A1 = 0 , Type : ANGLE ;
+		`#Start` = 0 , Type : Feature NLSName : `#Start` ;
+		`#End` = 0 , Type : Feature NLSName : `#End` ;
+		zx = 0 , Type : Feature ;
+	}
+}

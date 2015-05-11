@@ -1,0 +1,19 @@
+
+UserDefinedType isa Package
+{
+	TrichterPocket isa MechanicalFeature
+	{
+		`A2` = 0 , Type : `LENGTH` NLSName : `A2` ;
+		`A1` = 0 , Type : `LENGTH` NLSName : `A1` ;
+		`T` = 0 , Type : `LENGTH` NLSName : `T` ;
+		`B` = 0 , Type : `LENGTH` NLSName : `B` ;
+		`d` = 0 , Type : `Feature` NLSName : `d` ;
+		`a` = 0 , Type : `Feature` NLSName : `a` ;
+		`b` = 0 , Type : `Feature` NLSName : `b` ;
+		`c` = 0 , Type : `Feature` NLSName : `c` ;
+		`#Start` = 0 , Type : `Feature` NLSName : `#Start` ;
+		`#Mitte` = 0 , Type : `Feature` NLSName : `#Mitte` ;
+		`#Ref` = 0 , Type : `Feature` NLSName : `#Ref` ;
+		`xy` = 0 , Type : `Feature` NLSName : `xy` ;
+	}
+}

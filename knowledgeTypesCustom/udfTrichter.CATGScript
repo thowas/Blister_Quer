@@ -1,0 +1,18 @@
+
+UserDefinedType isa Package
+{
+	udfTrichter isa MechanicalFeature
+	{
+		`Extract.1` = 0 , Type : `Feature` NLSName : `Extract.1` ;
+		`Messpunkt` = 0 , Type : `Feature` NLSName : `Messpunkt` ;
+		`A` = 0 , Type : `ANGLE` NLSName : `A` ;
+		`R` = 0 , Type : `LENGTH` NLSName : `R` ;
+		`LII` = 0 , Type : `LENGTH` NLSName : `LII` ;
+		`LI` = 0 , Type : `LENGTH` NLSName : `LI` ;
+		`D1` = 0 , Type : `LENGTH` NLSName : `D1` ;
+		`xy` = 0 , Type : `Feature` NLSName : `xy` ;
+		`Ref` = 0 , Type : `Feature` NLSName : `Ref` ;
+		`Top` = 0 , Type : `Feature` NLSName : `Top` ;
+		`Down` = 0 , Type : `Feature` NLSName : `Down` ;
+	}
+}

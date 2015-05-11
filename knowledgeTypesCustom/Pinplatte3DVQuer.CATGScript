@@ -1,0 +1,17 @@
+
+UserDefinedType isa Package
+{
+	Pinplatte3DVQuer isa MechanicalFeature
+	{
+		AXS = 0 , Type : Feature ;
+		`Kugelfraeser-Rasternullpunkt` = 0 , Type : Feature NLSName : `Kugelfraeser-Rasternullpunkt` ;
+		B_V_3D = 0 , Type : LENGTH ;
+		GL = 0 , Type : LENGTH ;
+		R = 0 , Type : LENGTH ;
+		B = 0 , Type : LENGTH ;
+		L1 = 0 , Type : LENGTH ;
+		Ref = 0 , Type : Feature ;
+		xy = 0 , Type : Feature ;
+		Top = 0 , Type : Feature ;
+	}
+}

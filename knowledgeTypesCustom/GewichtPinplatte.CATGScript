@@ -1,0 +1,12 @@
+
+UserDefinedType isa Package
+{
+	GewichtPinplatte isa MechanicalFeature
+	{
+		`Pinplatte_Gewichtsersparniss` = 0 , Type : `Feature` NLSName : `Pinplatte_Gewichtsersparniss` ;
+		`Breite` = 0 , Type : `LENGTH` NLSName : `Breite` ;
+		`Center` = 0 , Type : `Feature` NLSName : `Center` ;
+		`Top` = 0 , Type : `Feature` NLSName : `Top` ;
+		`End` = 0 , Type : `Feature` NLSName : `End` ;
+	}
+}

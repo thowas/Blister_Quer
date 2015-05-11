@@ -1,0 +1,11 @@
+
+UserDefinedType isa Package
+{
+	Trichter isa MechanicalFeature
+	{
+		`T` = 0 , Type : `LENGTH` NLSName : `T` ;
+		`#ZX` = 0 , Type : `Feature` NLSName : `#ZX` ;
+		`#XY` = 0 , Type : `Feature` NLSName : `#XY` ;
+		`#YZ` = 0 , Type : `Feature` NLSName : `#YZ` ;
+	}
+}

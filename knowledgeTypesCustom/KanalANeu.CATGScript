@@ -1,0 +1,14 @@
+
+UserDefinedType isa Package
+{
+	KanalANeu isa SkinFeature
+	{
+		`Start` = 0 , Type : `LENGTH` NLSName : `Start` ;
+		`R` = 0 , Type : `LENGTH` NLSName : `R` ;
+		`KL` = 0 , Type : `LENGTH` NLSName : `KL` ;
+		`P_Laenge` = 0 , Type : `LENGTH` NLSName : `P_Laenge` ;
+		`#End` = 0 , Type : `Feature` NLSName : `#End` ;
+		`#Start_I` = 0 , Type : `Feature` NLSName : `#Start_I` ;
+		`zx` = 0 , Type : `Feature` NLSName : `zx` ;
+	}
+}

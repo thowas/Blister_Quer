@@ -1,0 +1,19 @@
+
+UserDefinedType isa Package
+{
+	TrichterPocketUntenQuer isa MechanicalFeature
+	{
+		R1 = 0 , Type : LENGTH ;
+		R = 0 , Type : LENGTH ;
+		L2 = 0 , Type : LENGTH ;
+		A1 = 0 , Type : LENGTH ;
+		A2 = 0 , Type : LENGTH ;
+		L1 = 0 , Type : LENGTH ;
+		D = 0 , Type : Feature ;
+		C = 0 , Type : Feature ;
+		B = 0 , Type : Feature ;
+		A = 0 , Type : Feature ;
+		Start = 0 , Type : Feature ;
+		xy = 0 , Type : Feature ;
+	}
+}

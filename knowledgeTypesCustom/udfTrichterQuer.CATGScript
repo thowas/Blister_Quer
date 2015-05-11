@@ -1,0 +1,18 @@
+
+UserDefinedType isa Package
+{
+	udfTrichterQuer isa MechanicalFeature
+	{
+		Extract.1 = 0 , Type : Feature ;
+		Messpunkt = 0 , Type : Feature ;
+		A = 0 , Type : ANGLE ;
+		R = 0 , Type : LENGTH ;
+		LII = 0 , Type : LENGTH ;
+		LI = 0 , Type : LENGTH ;
+		D1 = 0 , Type : LENGTH ;
+		xy = 0 , Type : Feature ;
+		Ref = 0 , Type : Feature ;
+		Top = 0 , Type : Feature ;
+		Down = 0 , Type : Feature ;
+	}
+}

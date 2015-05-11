@@ -1,0 +1,14 @@
+
+UserDefinedType isa Package
+{
+	RoehrchenFlachQuer isa MechanicalFeature
+	{
+		Fase = 0 , Type : LENGTH ;
+		A = 0 , Type : ANGLE ;
+		B = 0 , Type : LENGTH ;
+		R = 0 , Type : LENGTH ;
+		`#Ref` = 0 , Type : Feature NLSName : `#Ref` ;
+		`#Top` = 0 , Type : Feature NLSName : `#Top` ;
+		xy = 0 , Type : Feature ;
+	}
+}

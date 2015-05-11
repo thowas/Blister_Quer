@@ -1,0 +1,13 @@
+
+UserDefinedType isa Package
+{
+	KTBlisterRund3DQuer isa MechanicalFeature
+	{
+		T = 0 , Type : LENGTH ;
+		R1 = 0 , Type : LENGTH ;
+		D = 0 , Type : ANGLE ;
+		R = 0 , Type : LENGTH ;
+		Ref = 0 , Type : Feature ;
+		Breite_xy = 0 , Type : Feature ;
+	}
+}

@@ -1,0 +1,14 @@
+
+UserDefinedType isa Package
+{
+	RoehrchenAQuer isa MechanicalFeature
+	{
+		Fase = 0 , Type : LENGTH ;
+		R = 0 , Type : LENGTH ;
+		B = 0 , Type : LENGTH ;
+		T = 0 , Type : LENGTH ;
+		Ref = 0 , Type : Feature ;
+		Top = 0 , Type : Feature ;
+		xy = 0 , Type : Feature ;
+	}
+}

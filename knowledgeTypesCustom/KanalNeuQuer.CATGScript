@@ -1,0 +1,14 @@
+
+UserDefinedType isa Package
+{
+	KanalNeuQuer isa MechanicalFeature
+	{
+		PII_B = 0 , Type : LENGTH ;
+		PII_T = 0 , Type : LENGTH ;
+		PI_B = 0 , Type : LENGTH ;
+		PI_T = 0 , Type : LENGTH ;
+		Down = 0 , Type : Feature ;
+		Kanal = 0 , Type : Feature ;
+		xy = 0 , Type : Feature ;
+	}
+}

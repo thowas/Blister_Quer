@@ -1,0 +1,10 @@
+
+UserDefinedType isa Package
+{
+	RoehrchenRund2D isa SkinFeature
+	{
+		`Radius_2` = 0 , Type : `LENGTH` NLSName : `Radius_2` ;
+		`#Ref` = 0 , Type : `Feature` NLSName : `#Ref` ;
+		`xy` = 0 , Type : `Feature` NLSName : `xy` ;
+	}
+}

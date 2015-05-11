@@ -1,0 +1,12 @@
+
+UserDefinedType isa Package
+{
+	GewichtPinplatteQuer isa MechanicalFeature
+	{
+		Pinplatte_Gewichtsersparniss = 0 , Type : Feature ;
+		Breite = 0 , Type : LENGTH ;
+		Center = 0 , Type : Feature ;
+		Top = 0 , Type : Feature ;
+		End = 0 , Type : Feature ;
+	}
+}

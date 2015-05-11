@@ -1,0 +1,15 @@
+
+UserDefinedType isa Package
+{
+	KanalDressupQuer isa MechanicalFeature
+	{
+		tiefe_unten = 0 , Type : LENGTH ;
+		A1 = 0 , Type : ANGLE ;
+		PI_B = 0 , Type : LENGTH ;
+		PI_T = 0 , Type : LENGTH ;
+		PII_B = 0 , Type : LENGTH ;
+		xy_unten = 0 , Type : Feature ;
+		xy_oben = 0 , Type : Feature ;
+		Kanal = 0 , Type : Feature ;
+	}
+}

@@ -1,0 +1,10 @@
+
+UserDefinedType isa Package
+{
+	KTBlisterRund2DQuer isa MechanicalFeature
+	{
+		R = 0 , Type : LENGTH ;
+		Ref = 0 , Type : Feature ;
+		Breite_xy = 0 , Type : Feature ;
+	}
+}

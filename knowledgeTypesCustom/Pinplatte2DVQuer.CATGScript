@@ -1,0 +1,14 @@
+
+UserDefinedType isa Package
+{
+	Pinplatte2DVQuer isa MechanicalFeature
+	{
+		B_V_2D = 0 , Type : LENGTH ;
+		GL = 0 , Type : LENGTH ;
+		R = 0 , Type : LENGTH ;
+		B = 0 , Type : LENGTH ;
+		L1 = 0 , Type : LENGTH ;
+		`#Ref` = 0 , Type : Feature NLSName : `#Ref` ;
+		xy = 0 , Type : Feature ;
+	}
+}

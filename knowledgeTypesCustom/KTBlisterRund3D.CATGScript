@@ -1,0 +1,13 @@
+
+UserDefinedType isa Package
+{
+	KTBlisterRund3D isa MechanicalFeature
+	{
+		`T` = 0 , Type : `LENGTH` NLSName : `T` ;
+		`R1` = 0 , Type : `LENGTH` NLSName : `R1` ;
+		`D` = 0 , Type : `ANGLE` NLSName : `D` ;
+		`R` = 0 , Type : `LENGTH` NLSName : `R` ;
+		`Ref` = 0 , Type : `Feature` NLSName : `Ref` ;
+		`Breite_xy` = 0 , Type : `Feature` NLSName : `Breite_xy` ;
+	}
+}

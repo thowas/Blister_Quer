@@ -1,0 +1,19 @@
+
+UserDefinedType isa Package
+{
+	TrichterPocketQuer isa MechanicalFeature
+	{
+		A2 = 0 , Type : LENGTH ;
+		A1 = 0 , Type : LENGTH ;
+		T = 0 , Type : LENGTH ;
+		B = 0 , Type : LENGTH ;
+		d = 0 , Type : Feature ;
+		a = 0 , Type : Feature ;
+		b = 0 , Type : Feature ;
+		c = 0 , Type : Feature ;
+		`#Start` = 0 , Type : Feature NLSName : `#Start` ;
+		`#Mitte` = 0 , Type : Feature NLSName : `#Mitte` ;
+		`#Ref` = 0 , Type : Feature NLSName : `#Ref` ;
+		xy = 0 , Type : Feature ;
+	}
+}

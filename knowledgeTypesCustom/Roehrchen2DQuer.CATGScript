@@ -1,0 +1,12 @@
+
+UserDefinedType isa Package
+{
+	Roehrchen2DQuer isa MechanicalFeature
+	{
+		R = 0 , Type : LENGTH ;
+		T = 0 , Type : LENGTH ;
+		B = 0 , Type : LENGTH ;
+		Ref = 0 , Type : Feature ;
+		xy = 0 , Type : Feature ;
+	}
+}

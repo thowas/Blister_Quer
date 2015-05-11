@@ -1,0 +1,17 @@
+
+UserDefinedType isa Package
+{
+	TrichterRund isa MechanicalFeature
+	{
+		`Extract.6` = 0 , Type : `Feature` NLSName : `Extract.6` ;
+		`Messpunkt` = 0 , Type : `Feature` NLSName : `Messpunkt` ;
+		`ref` = 0 , Type : `LENGTH` NLSName : `ref` ;
+		`D` = 0 , Type : `LENGTH` NLSName : `D` ;
+		`R1` = 0 , Type : `LENGTH` NLSName : `R1` ;
+		`A1` = 0 , Type : `ANGLE` NLSName : `A1` ;
+		`xy` = 0 , Type : `Feature` NLSName : `xy` ;
+		`#Ref` = 0 , Type : `Feature` NLSName : `#Ref` ;
+		`Top` = 0 , Type : `Feature` NLSName : `Top` ;
+		`Down` = 0 , Type : `Feature` NLSName : `Down` ;
+	}
+}
