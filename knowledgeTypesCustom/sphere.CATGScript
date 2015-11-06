@@ -1,9 +1,0 @@
-
-UserDefinedType isa Package
-{
-	sphere isa SkinFeature
-	{
-		Sphere = 0 , Type : LENGTH ;
-		Punkt = 0 , Type : Feature ;
-	}
-}

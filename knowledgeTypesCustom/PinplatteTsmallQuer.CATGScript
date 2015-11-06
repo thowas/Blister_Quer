@@ -4,7 +4,7 @@ UserDefinedType isa Package
 	PinplatteTsmallQuer isa MechanicalFeature
 	{
 		AXS = 0 , Type : Feature ;
-		`Kugelfraeser-Rasternullpunkt` = 0 , Type : Feature NLSName : `Kugelfraeser-Rasternullpunkt` ;
+		`#Kugel` = 0 , Type : LENGTH NLSName : `#Kugel` ;
 		GL = 0 , Type : LENGTH ;
 		AF = 0 , Type : LENGTH ;
 		L1 = 0 , Type : LENGTH ;

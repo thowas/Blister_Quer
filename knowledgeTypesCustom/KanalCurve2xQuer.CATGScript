@@ -3,12 +3,14 @@ UserDefinedType isa Package
 {
 	KanalCurve2xQuer isa SkinFeature
 	{
+		`#Parallel` = 0 , Type : LENGTH NLSName : `#Parallel` ;
 		R2 = 0 , Type : LENGTH ;
 		X = 0 , Type : LENGTH ;
 		check_R = 0 , Type : LENGTH ;
 		PL = 0 , Type : LENGTH ;
 		KL = 0 , Type : LENGTH ;
 		A1 = 0 , Type : ANGLE ;
+		xy = 0 , Type : Feature ;
 		`#Start` = 0 , Type : Feature NLSName : `#Start` ;
 		`#End` = 0 , Type : Feature NLSName : `#End` ;
 		zx = 0 , Type : Feature ;

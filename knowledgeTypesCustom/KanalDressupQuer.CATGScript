@@ -3,13 +3,17 @@ UserDefinedType isa Package
 {
 	KanalDressupQuer isa MechanicalFeature
 	{
-		tiefe_unten = 0 , Type : LENGTH ;
+		tiefe_oben = 0 , Type : LENGTH ;
+		Split_II = 0 , Type : Boolean ;
+		Split_I = 0 , Type : Boolean ;
 		A1 = 0 , Type : ANGLE ;
-		PI_B = 0 , Type : LENGTH ;
+		tiefe_unten = 0 , Type : LENGTH ;
+		PII_T = 0 , Type : LENGTH ;
 		PI_T = 0 , Type : LENGTH ;
-		PII_B = 0 , Type : LENGTH ;
-		xy_unten = 0 , Type : Feature ;
+		PI_B = 0 , Type : LENGTH ;
+		zx = 0 , Type : Feature ;
 		xy_oben = 0 , Type : Feature ;
+		xy_unten = 0 , Type : Feature ;
 		Kanal = 0 , Type : Feature ;
 	}
 }

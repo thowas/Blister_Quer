@@ -4,6 +4,7 @@ UserDefinedType isa Package
 	PinplatteASketchQuer isa SkinFeature
 	{
 		`Kugelfraeser-Rasternullpunkt` = 0 , Type : Feature NLSName : `Kugelfraeser-Rasternullpunkt` ;
+		`#Kugel` = 0 , Type : LENGTH NLSName : `#Kugel` ;
 		Top = 0 , Type : Feature ;
 		`#Ref` = 0 , Type : Feature NLSName : `#Ref` ;
 		xy = 0 , Type : Feature ;

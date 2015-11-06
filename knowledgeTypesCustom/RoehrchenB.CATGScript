@@ -1,9 +1,0 @@
-
-UserDefinedType isa Package
-{
-	RoehrchenB isa MechanicalFeature
-	{
-		`#Ref` = 0 , Type : `Feature` NLSName : `#Ref` ;
-		`xy` = 0 , Type : `Feature` NLSName : `xy` ;
-	}
-}
